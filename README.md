@@ -1,6 +1,6 @@
 # TB Setia Jaya App Prototype
 
-## 📌 Project Overview
+## Project Overview
 This project was developed during the second semester at 
 :contentReference[oaicite:0]{index=0}.  
 The application is based on the business model of **Setia Jaya Building Supply Store**.
@@ -14,7 +14,7 @@ The application was designed using
 
 ---
 
-## 🎨 Prototype Flow
+## Prototype Flow
 The prototype consists of three main flows:
 
 ### 1. Main Flow
@@ -28,7 +28,7 @@ Displays the main menu and features available for employee users.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - UI/UX Design: 
 :contentReference[oaicite:2]{index=2}
 - Database Design
@@ -36,14 +36,13 @@ Displays the main menu and features available for employee users.
 
 ---
 
-## 📖 Project Purpose
+## Project Purpose
 The purpose of this project is to create a digital solution for managing building supply store operations through a modern and user-friendly application prototype.
 
 ---
 
-## 👥 Team Project
-Developed as a second semester university project at 
-:contentReference[oaicite:3]{index=3}.
+## App Design (Figma)
+Link: https://www.figma.com/proto/JaqgQFahyd19X1ZHhk68rk/TB-Setia-Jaya-App?page-id=0%3A1&node-id=3-13&p=f&viewport=547%2C595%2C0.11&t=N4FlHUrMFcg521PC-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3%3A55&show-proto-sidebar=1
 
 
 <img width="378" height="378" alt="TB Setia Jaya Logo" src="https://github.com/user-attachments/assets/9bac3837-b44c-48d6-9b10-b24aeb70d9e6" />
