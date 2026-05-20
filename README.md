@@ -1,16 +1,14 @@
 # TB Setia Jaya App Prototype
 
 ## Project Overview
-This project was developed during the second semester at 
-:contentReference[oaicite:0]{index=0}.  
+This project was developed during the second semester at UMN
 The application is based on the business model of **Setia Jaya Building Supply Store**.
 
 The outcome of this project includes:
 - A UI/UX prototype design
 - A database design for the **TB Setia Jaya App**
 
-The application was designed using 
-:contentReference[oaicite:1]{index=1}.
+The application was designed using Figma
 
 ---
 
@@ -29,10 +27,9 @@ Displays the main menu and features available for employee users.
 ---
 
 ## Tools & Technologies
-- UI/UX Design: 
-:contentReference[oaicite:2]{index=2}
-- Database Design
-- Prototype Development
+- Figma
+- SSMS
+- Microsoft MYSQL
 
 ---
 
